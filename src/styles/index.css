@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 100%;
+    overflow-x: hidden;
+    background: linear-gradient(rgb(204, 155, 20), rgb(224, 170, 22));
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 100vh;
+}
