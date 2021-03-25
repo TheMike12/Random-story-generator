@@ -64,6 +64,10 @@ h2 {
     cursor: pointer;
 }
 
+.generator_button:active {
+    transform: scale(.96, .96);
+}
+
 #message {
     display: none;
     margin-top: 75px;
